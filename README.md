@@ -1,2 +1,2 @@
 # azure-devops
-this is repo for azure-devops
+this repo is for azure-devops
